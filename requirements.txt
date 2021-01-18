@@ -1,0 +1,5 @@
+pandas
+py7zr
+tqdm
+ipywidgets
+bar_chart_race
